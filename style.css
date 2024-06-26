@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(31, 2, 78);
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+img{
+    border-style: ;
+    margin-left: 80px;
+    margin-top: 130px;
+    border-radius: 50%;
+}
+h3{
+    
+    width: 200px;
+    margin-left: 95px;
+
+    color: rgb(215, 230, 250);
+    margin-bottom: 0%;
+    background: linear-gradient(rgb(242, 0, 255), rgb(255, 153, 0));
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
+  
+}
+h2{
+    color: rgb(219, 215, 250);
+    margin-left:120px;
+    margin-top: 15x;
+    background: linear-gradient(rgb(242, 0, 255), rgb(255, 153, 0));
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+article{
+    color: antiquewhite;
+    margin-left:90px;
+    margin-bottom: 32%;
+}
+
+#con1{
+    border-style: solid;
+    width: 300px;
+    height: 85%;
+    border-color: #000000;
+    margin-left: 5%;
+    margin-top: 30px;
+    color:black;
+    background-color: black;
+    border-radius: 5%;
+    float: left;
+    
+}
+
+#con2{
+    border-style: solid;
+    width: 50%;
+    height: 85%;
+    border-color: black;
+    margin-left: %;
+    margin-top: 30px;
+    color:black;
+    background-color: black;
+    border-radius: 5%;
+    float:right;
+    margin-right: 2%;
+
+}
+#con3{
+    border-style: ;
+    background:
+        linear-gradient(red, transparent),
+        linear-gradient(to top left, rgb(255, 0, 0), transparent),
+        linear-gradient(to top right, blue, transparent);
+    background-blend-mode: screen;
+    background-color:antiquewhite;
+}
+
+#box{
+    width:800px;
+    height: 500px;
+    
+    background-color: aquamarine;
+    background:
+        linear-gradient(red,blue, transparent),
+        linear-gradient(to left, rgb(38, 0, 255), transparent),
+        linear-gradient(to right, rgb(188, 14, 14), transparent);
+    background-blend-mode: screen;
+    background-color: ;
+    background-color:;
+}
+.center {
+    position: relative;
+    z-index: 10;
+    margin: auto;
+    width: 50%;
+    margin-top: 10%;
+    border-radius: 5%;
+}
+section{
+    width: 00px;
+    margin-left: 120px;
+    margin-top: 0%;
+
+    color: rgb(215, 230, 250);
+    
+}
+
